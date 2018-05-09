@@ -1,0 +1,18 @@
+#number {
+    background-color: gray;
+    color:white;
+}
+
+#random {
+    background-color: lightpink;
+}
+
+#add {
+    background-color: lightgrey;
+    color:white;
+}
+
+#display {
+    display: inline-block;
+    margin:5px;
+}
